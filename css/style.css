@@ -218,7 +218,7 @@ input[type="email"]:focus, input[type="password"]:focus, input[type="text"]:focu
 
 .section-title p {
   color: #666;
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .subtitle {
@@ -407,7 +407,7 @@ a:focus {
 }
 
 #navbar .nav-link {
-  font-family: "Poppins", sans-serif;
+  font-family: "Montserrat", sans-serif;
   font-weight: 500;
   color: #fff;
   text-transform: uppercase;
